@@ -81,6 +81,13 @@ https://github.com/hkb18/python-security-log-analyzer
 
 ---
 
+## 🧪 TryHackMe
+
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/H3KB.png)
+
+- Top 5% global ranking
+- Hands-on labs in SOC, detection, and attack techniques
+
 ## 📚 Currently Learning
 
 - Detection engineering concepts
