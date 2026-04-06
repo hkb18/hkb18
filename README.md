@@ -43,35 +43,36 @@ https://github.com/hkb18/python-security-log-analyzer
 
 ## 🛠 Tech Stack
 
-### SIEM & Logging
+### 💻 Programming
 <p>
-  <img src="https://cdn.simpleicons.org/splunk" alt="Splunk" height="40" />
-  <img src="https://cdn.simpleicons.org/windows" alt="Windows" height="40" />
+  <img src="https://skillicons.dev/icons?i=python" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js" height="40"/>
 </p>
 
-- Sysmon  
-- Windows Event Logs  
-
-### Security Tools
+### ⚙️ Systems
 <p>
-  <img src="https://cdn.simpleicons.org/wireshark" alt="Wireshark" height="40" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git" height="40"/>
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </p>
 
-- Nmap  
-- Suricata  
-- OWASP ZAP  
+VirtualBox • Kali Linux
 
-### Malware / DFIR
-- Autopsy  
-- Volatility  
-- MemProcFS  
+---
 
-### Programming
-<p>
-  <img src="https://cdn.simpleicons.org/python" alt="Python" height="40" />
-  <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" height="40" />
-  <img src="https://cdn.simpleicons.org/openjdk" alt="Java" height="40" />
-</p>
+### 🔐 SIEM & Logging
+Splunk • Sysmon • Windows Event Logs
+
+---
+
+### 🛡️ Security Tools
+Wireshark • Nmap • Suricata • OpenVAS • Nikto • OWASP ZAP
+
+---
+
+### 🧪 DFIR
+Autopsy • MemProcFS • Volatility
 
 ---
 
