@@ -1,16 +1,71 @@
-## Hi there 👋
+# 👋 Hi, I'm Hithesh
 
-<!--
-**hkb18/hkb18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity graduate focused on SOC operations, log analysis, and detection using Windows telemetry.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔐 Focus Areas
+
+- Security Operations (SOC fundamentals)
+- Log analysis using Splunk
+- Windows telemetry (Sysmon + Windows Security Event Logs)
+- MITRE ATT&CK mapping
+- Python for security log analysis
+
+---
+
+## 🚀 Projects
+
+### Splunk SOC Detection Lab
+- Built a small SOC lab using Splunk, Sysmon, and a simulated attacker environment
+- Collected and analyzed telemetry from a Windows endpoint
+- Simulated reconnaissance activity from a Kali Linux VM
+- Detected port scan behavior using Windows Security logs in Splunk
+- Demonstrated suspicious PowerShell execution detection using Sysmon process telemetry
+- Mapped observed behavior to MITRE ATT&CK techniques
+
+https://github.com/hkb18/splunk-soc-detection-lab
+
+---
+
+### Python Security Log Analyzer
+- Parses Windows EVTX logs using python-evtx
+- Analyzes Sysmon and Windows Security telemetry
+- Detects suspicious PowerShell execution patterns
+- Detects network / port scan behavior
+- Identifies repeated failed login attempts (Event ID 4625)
+- Correlates failed and successful logons for basic credential-compromise detection
+- Uses rule-based detection and event correlation
+
+https://github.com/hkb18/python-security-log-analyzer
+
+---
+
+## 🛠 Skills
+
+SIEM: Splunk  
+Logs: Sysmon, Windows Event Logs  
+Tools: Wireshark, Nmap, Suricata, OpenVAS, OWASP ZAP  
+DFIR: Autopsy, MemProcFS, Volatility  
+Programming: Python, Java, JavaScript  
+
+---
+
+## 📚 Currently Learning
+
+- Detection engineering concepts
+- Active Directory attack techniques
+- Threat hunting fundamentals
+
+---
+
+## 🎯 Goal
+
+To start a career as a SOC Analyst and continue building practical skills in monitoring, detection, and security analysis.
+
+---
+
+## 📫 Contact
+
+LinkedIn: https://www.linkedin.com/in/hitheshkbimal  
+GitHub: https://github.com/hkb18
