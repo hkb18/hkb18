@@ -45,21 +45,22 @@ https://github.com/hkb18/python-security-log-analyzer
 
 ### SIEM & Logging
 <p>
-  <img src="https://cdn.simpleicons.org/splunk" height="40"/>
-  <img src="https://cdn.simpleicons.org/windows" height="40"/>
+  <img src="https://cdn.simpleicons.org/splunk" alt="Splunk" height="40" />
+  <img src="https://cdn.simpleicons.org/windows" alt="Windows" height="40" />
 </p>
 
 ### Security Tools
 <p>
-  <img src="https://cdn.simpleicons.org/wireshark" height="40"/>
+  <img src="https://cdn.simpleicons.org/wireshark" alt="Wireshark" height="40" />
 </p>
 
 ### Programming
 <p>
-  <img src="https://cdn.simpleicons.org/python" height="40"/>
-  <img src="https://cdn.simpleicons.org/javascript" height="40"/>
-  <img src="https://cdn.simpleicons.org/openjdk" height="40"/>
+  <img src="https://cdn.simpleicons.org/python" alt="Python" height="40" />
+  <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" height="40" />
+  <img src="https://cdn.simpleicons.org/openjdk" alt="Java" height="40" />
 </p>
+
 ---
 
 ## 📚 Currently Learning
