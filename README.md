@@ -41,29 +41,25 @@ https://github.com/hkb18/python-security-log-analyzer
 
 ---
 
-## 🛠 Skills
+## 🛠 Tech Stack
 
 ### SIEM & Logging
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk)
-![Sysmon](https://img.shields.io/badge/Sysmon-0078D6?style=for-the-badge)
-![Windows Event Logs](https://img.shields.io/badge/Windows_Event_Logs-0078D4?style=for-the-badge&logo=windows)
+<p>
+  <img src="https://cdn.simpleicons.org/splunk" height="40"/>
+  <img src="https://cdn.simpleicons.org/windows" height="40"/>
+</p>
 
 ### Security Tools
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark)
-![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
-![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge)
-
-### Malware / DFIR
-![Autopsy](https://img.shields.io/badge/Autopsy-2C3E50?style=for-the-badge)
-![Volatility](https://img.shields.io/badge/Volatility-34495E?style=for-the-badge)
-![MemProcFS](https://img.shields.io/badge/MemProcFS-8E44AD?style=for-the-badge)
+<p>
+  <img src="https://cdn.simpleicons.org/wireshark" height="40"/>
+</p>
 
 ### Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript) 
-
+<p>
+  <img src="https://cdn.simpleicons.org/python" height="40"/>
+  <img src="https://cdn.simpleicons.org/javascript" height="40"/>
+  <img src="https://cdn.simpleicons.org/openjdk" height="40"/>
+</p>
 ---
 
 ## 📚 Currently Learning
