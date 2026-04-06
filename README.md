@@ -43,11 +43,26 @@ https://github.com/hkb18/python-security-log-analyzer
 
 ## 🛠 Skills
 
-SIEM: Splunk  
-Logs: Sysmon, Windows Event Logs  
-Tools: Wireshark, Nmap, Suricata, OpenVAS, OWASP ZAP  
-DFIR: Autopsy, MemProcFS, Volatility  
-Programming: Python, Java, JavaScript  
+### SIEM & Logging
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk)
+![Sysmon](https://img.shields.io/badge/Sysmon-0078D6?style=for-the-badge)
+![Windows Event Logs](https://img.shields.io/badge/Windows_Event_Logs-0078D4?style=for-the-badge&logo=windows)
+
+### Security Tools
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
+![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge)
+
+### Malware / DFIR
+![Autopsy](https://img.shields.io/badge/Autopsy-2C3E50?style=for-the-badge)
+![Volatility](https://img.shields.io/badge/Volatility-34495E?style=for-the-badge)
+![MemProcFS](https://img.shields.io/badge/MemProcFS-8E44AD?style=for-the-badge)
+
+### Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript) 
 
 ---
 
