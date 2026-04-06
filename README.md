@@ -106,3 +106,9 @@ To start a career as a SOC Analyst and continue building practical skills in mon
 
 LinkedIn: https://www.linkedin.com/in/hitheshkbimal  
 GitHub: https://github.com/hkb18
+
+## 📊 GitHub Activity
+
+![Hithesh GitHub stats](https://github-readme-stats.vercel.app/api?username=hkb18&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hkb18&layout=compact&theme=dark)
