@@ -104,6 +104,7 @@ GitHub: https://github.com/hkb18
 
 ## 📊 GitHub Activity
 
-![Hithesh GitHub stats](https://github-readme-stats.vercel.app/api?username=hkb18&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hkb18&layout=compact&theme=dark)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=hkb18&show_icons=true&theme=dark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkb18&layout=compact&theme=dark" height="160"/>
+</p>
